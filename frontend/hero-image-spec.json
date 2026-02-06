@@ -1,0 +1,20 @@
+{
+  "purpose": "Hero section image for a B2B business-growth / strategy consulting website. The image sits in a 4:5 portrait card on the right side of the hero, with a subtle dark gradient overlay at the bottom.",
+  "image_dimensions": {
+    "aspect_ratio": "4:5 (portrait)",
+    "recommended_width_px": 800,
+    "recommended_height_px": 1000,
+    "retina_2x_width_px": 1600,
+    "retina_2x_height_px": 2000,
+    "note": "Use 800×1000 for standard; 1600×2000 for crisp display on retina/high-DPI screens."
+  },
+  "site_brand_colors_hex": {
+    "brand_blue": "#0054D2",
+    "brand_blue_dark": "#0042a8",
+    "charcoal": "#2d3436",
+    "cream": "#faf9f7",
+    "stone_200": "#e7e5e4",
+    "stone_300": "#d6d3d1"
+  },
+  "prompt_for_chatgpt": "Create a single, high-quality photograph or photorealistic image for a professional B2B consulting website hero section. The image must represent a business that helps other businesses grow: strategy, growth, and partnership. Scene: A confident but approachable business professional (or a small, diverse team in a modern but warm setting) in a clean, contemporary environment—e.g. a bright modern office, a minimal meeting room with natural light, or a calm workspace with soft shadows. Mood: Professional, trustworthy, forward-looking, and collaborative; avoid cold or corporate clichés. Colour palette: Weave in the brand colour subtly so the image blends with the website. Primary brand colour is a clear blue (hex #0054D2)—include it in subtle ways: a blue accent on clothing (tie, scarf, blouse), a soft blue tint in the background (wall, glass, light), or blue in props (notepad, screen, plant pot). Also use warm neutrals that match the site: cream/off-white (#faf9f7), light stone greys (#e7e5e4, #d6d3d1), and a touch of charcoal (#2d3436) for depth. The overall tone should feel warm and inviting, not sterile. Composition: Portrait orientation (4:5). Leave some negative space, especially in the upper or side areas, so the image does not feel cluttered. The bottom portion may be slightly darker or have more weight, as the site applies a subtle dark gradient overlay at the bottom of the image. Style: Modern, editorial, slightly soft and refined; avoid generic stock-photo poses, exaggerated smiles, or busy backgrounds. Lighting: Natural or soft diffused light; no harsh shadows. Output: A single image that feels cohesive with a cream/white page background and soft blue decorative blobs, so the hero section feels unified and on-brand."
+}
